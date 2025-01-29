@@ -1,7 +1,7 @@
 pandas
 numpy
 seaborn
-plotlty
+plotly
 scikit-learn
 imblearn 
 nltk 
